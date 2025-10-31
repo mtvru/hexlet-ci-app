@@ -25,5 +25,5 @@ jobs:
       # Запускаем линтер
       - run: make lint
       # Запускаем тесты
-      - run: make lint
+      - run: make test
       - uses: hexlet-components/hello-from-hexlet-action@release
