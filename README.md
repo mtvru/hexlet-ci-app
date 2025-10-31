@@ -1,5 +1,7 @@
 # Example app for CI Hexlet course
 
+[![build-backend](https://github.com/mtvru/hexlet-ci-app/actions/workflows/build-backend.yml/badge.svg)](https://github.com/mtvru/hexlet-ci-app/actions/workflows/build-backend.yml)
+
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
 ## System requirements
